@@ -1,4 +1,4 @@
-path: Segment/Datasets
+path: Segment/Datasets/train
 train: images
 val: images
 
