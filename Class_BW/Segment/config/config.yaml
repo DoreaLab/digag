@@ -1,1 +1,6 @@
+path: Segment/Datasets
+train: images
+val: images
 
+nc: 1
+names: ['cow']
