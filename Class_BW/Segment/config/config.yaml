@@ -1,4 +1,4 @@
-path: Segment/Datasets/train
+path: /content/digag/Class_BW/Segment/Datasets/train
 train: images
 val: images
 
