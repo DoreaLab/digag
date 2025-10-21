@@ -1,6 +1,6 @@
 # Class_BW/Segment/config/config.yaml
-path: /content/digag/Class_BW/Segment/Datasets/train   # raiz do dataset
-train: images                                          # usa /images e /labels
-val: images                                            # valida nos mesmos dados
+path: /content/digag/Class_BW/Segment/Datasets   # raiz do dataset
+train: train/images                                          # usa /images e /labels
+val: valid/images                                            # valida nos mesmos dados
 nc: 1
 names: ['cow']
