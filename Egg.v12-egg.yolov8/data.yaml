@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['blue egg', 'red egg', 'white egg']
+
+roboflow:
+  workspace: object-detection-d6ncm
+  project: egg-mia4p
+  version: 12
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detection-d6ncm/egg-mia4p/dataset/12
